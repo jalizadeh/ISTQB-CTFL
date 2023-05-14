@@ -43,7 +43,7 @@ I passed the exam with 36/40 correct answer means my score was 90% which is a ve
 
 
 ### Exam Tips
-Before reading this part, I highly recommend you again read the experience of [Olha Kutniv]((https://medium.com/agileinsider/how-to-prepare-for-and-pass-istqb-certification-my-experience-94b127ccfebc)) and then mine.
+Before reading this part, I highly recommend you again read the experience of [Olha Kutniv](https://medium.com/agileinsider/how-to-prepare-for-and-pass-istqb-certification-my-experience-94b127ccfebc) and then mine.
 
 According to my experience, the sample exams you find freely online are very different than what are provided on the ISTQB site. There you can find 3 sample exmas which are standard and cover all chapters. So I used these 3 exams as my reference to assess if I am ready or not. 
 
@@ -74,3 +74,7 @@ But for preparing myself for these exams, I had to do other mock or dump tests. 
         - Answered 500 questions (you can find it online) in only 2 days, I was sure that I can read, process, understand and find the correct answer quickly by just reading the question and answers only once.
     
 On exam set #3, I had only 3 errors which means my score was 92.5%. This was a great news for me and made me confident that I'm ready for the exam. I could apply my time management techniques and easily review multiple times the questions. 
+
+
+## Disclaimer: 
+This repository are for informational purposes only. The creator of this repository makes no representations as to the accuracy or completeness of the information provided. The creator of this repository will not be liable for any errors or omissions in the contents, nor for any losses, injuries, or damages arising from the use of the contents provided in this repository. It is the responsibility of the user to verify the accuracy and completeness of the contents for any purpose, including but not limited to educational or assessment purposes.
